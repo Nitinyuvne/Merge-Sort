@@ -1,1 +1,1 @@
-merge-Sorting
+meSorting
